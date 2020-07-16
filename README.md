@@ -13,6 +13,4 @@ Besides, that's a good training for me to write in English (be kind with my mist
 <!-- - 🤔 I’m looking for help with ...
 -->
 - 💬 You can ask me about everything you want to know about me.
-- 📫 You can reach me there:
-Tweeter: https://twitter.com/DedmanRollet
-My Blog: https://christechjourney.blogspot.com
+- 📫 You can reach me on [Tweeter](https://twitter.com/DedmanRollet) and [My Blog](https://christechjourney.blogspot.com)
