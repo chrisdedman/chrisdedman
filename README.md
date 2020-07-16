@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi y'all and welcome to my GitHub page.👋
 
-<!--
-**chrishaman/chrishaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Chris, I am a Frenchman living in California, USA. 
+I am currently self-learning (Started in June 2020) Cisco for getting the CCNA certificate, and Python without any experience or knowledge.
+Besides, I am learning English.
 
-Here are some ideas to get you started:
+I created a blog, for staying motivated in my Networkng Journey, and share what am I doing everyday and bring, hopefully, some motivations for someone else.
+Besides, that's a good training for me to write in English (be kind with my mistakes 😃 ).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on master Python Object-Oriented Programing, and start a Raspberry Pi Robot Car Project with my wife.
+- 🌱 I’m currently learning Python and CCNA Certification!
+- 👯 I'm looking to collaborate with any newbie like me who needs helps.
+<!-- - 🤔 I’m looking for help with ...
 -->
+- 💬 You can ask me about everything you want to know about me.
+- 📫 You can reach me there:
+Tweeter: https://twitter.com/DedmanRollet
+My Blog: https://christechjourney.blogspot.com
