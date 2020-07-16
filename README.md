@@ -9,7 +9,6 @@ Besides, that's good training for me to write in English (be kind to my mistakes
 - 🔭 I’m currently working on master Python Object-Oriented Programing, and start a Raspberry Pi Robot Car Project with my wife.
 - 🌱 I’m currently learning Python and CCNA Certification!
 - 👯 I'm looking to collaborate with any newbie like me who needs helps.
-<!-- - 🤔 I’m looking for help with ...
--->
+- 🤔 My Python Goal: Create a bot.
 - 💬 You can ask me about everything you want to know about me.
 - 📫 You can reach me on [Tweeter](https://twitter.com/DedmanRollet) and [My Blog](https://christechjourney.blogspot.com)
