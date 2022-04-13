@@ -4,4 +4,4 @@ I am a Frenchman who immigrate to the United States of America in early 2020, an
 
 * 🌱 I’m currently learning Python, and C++
 * 💬 You can ask me about everything you want to know about me.
-* 📫 You can reach me on [Tweeter](https://twitter.com/DedmanRollet), on [My Blog](https://christechjourney.wordpress.com) or [Instagram](https://instagram.com/christechjourney)
+* 📫 You can reach me on [Twitter](https://twitter.com/DedmanRollet), on [My Blog](https://chrisdedman.github.io) or [Instagram](https://instagram.com/christechjourney)
