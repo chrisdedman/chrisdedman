@@ -1,7 +1,7 @@
-### Hello World and welcome to my GitHub page.👋
+### Hello World! Welcome to my GitHub page.👋
 
-I am a Frenchman who immigrate to the United States of America in early 2020, and I am now a permanent resident of California. I am pursuing a Bachelor of Science in Computer Science. I am a former butcher with a 12 years background in this field. I decided to change my path for technology in late 2019 when my wife ~ a Senior Software Engineer~ started to teach me the programming language Python. I have a goal to work for a space company, it has been a dream of mine when I was little but never thought it could be a reality.
+I am Chris. Currently a sophomore in college preparing for a Bachelor of Science in Computer Science. My main programming languages are Python and C++, and I will be learning Java in the winter semester of 2023 (January 2023). I know some HTML and CSS, but not advanced enough (just enough to create my own [website](https://chrisdedman.github.io)). I'm passionate about space and would love to work for any aerospace company. I am preparing to apply for an internship, targeting summer 2023 to advance my programming skills.
 
 * 🌱 I’m currently learning Python, and C++
-* 💬 You can ask me about everything you want to know about me.
+* 💬 You can ask me about Python, C++ and HTML
 * 📫 You can reach me on [Twitter](https://twitter.com/DedmanRollet), on [My Blog](https://chrisdedman.github.io) or [Instagram](https://instagram.com/christechjourney)
