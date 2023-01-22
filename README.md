@@ -22,6 +22,7 @@ As a student, I have completed several programming-related courses and have cons
 * Grace Open-Source Discord Bot
     * [Weather Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/weather_cog.py)
     * [Translator Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/translator_cog.py)
+    * [Updated Documentation](https://github.com/Code-Society-Lab/grace/pull/88)
 
 ## Contact 📫
 * [Twitter](https://twitter.com/DedmanRollet)
