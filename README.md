@@ -8,10 +8,12 @@ As a student, I have completed several programming-related courses and have cons
 ## Interest:
 * Sofware Engineering
 * Artificial Intelligence
+* Back End 
 
 ## Languages
 * Python
 * C++
+* Java
 
 ## My Project
 * [Near Earth Object Tracking](https://github.com/chrisdedman/Near_Earth_Object)
