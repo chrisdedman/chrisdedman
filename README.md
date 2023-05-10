@@ -25,7 +25,7 @@ As a student, I have completed several programming-related courses and have cons
     * [Weather Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/weather_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/51)
     * [Translator Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/translator_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/81)
     * [Updated Documentation](https://github.com/Code-Society-Lab/grace/pull/88)
-    * [Code Generator Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/code_generator_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/89)
+    * [Code Generator Feature (OpenAI)](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/code_generator_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/89)
 
 ## Contact 📫
 * [Twitter](https://twitter.com/DedmanRollet)
