@@ -11,9 +11,10 @@ As a student, I have completed several programming-related courses and have cons
 * Back End 
 
 ## Languages
-* Python
-* C++
-* Java
+
+* ![Custom badge](https://img.shields.io/badge/-Python-blue)
+* ![Custom badge](https://img.shields.io/badge/-C++-blue)
+* ![Custom badge](https://img.shields.io/badge/-Java-blue)
 
 ## My Project
 * [Near Earth Object Tracking](https://github.com/chrisdedman/Near_Earth_Object)
@@ -28,5 +29,5 @@ As a student, I have completed several programming-related courses and have cons
     * [Code Generator Feature (OpenAI)](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/code_generator_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/89)
 
 ## Contact 📫
-* [Twitter](https://twitter.com/DedmanRollet)
-* [My Blog](https://chrisdedman.github.io)
+* [![Custom badge](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/DedmanRollet)
+* [![Custom badge](https://img.shields.io/badge/-Blog-blue)](https://chrisdedman.github.io)
