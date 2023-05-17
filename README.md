@@ -6,15 +6,19 @@ Chris here! I am a computer science student currently pursuing a Bachelor of Sci
 As a student, I have completed several programming-related courses and have consistently received high marks for my work. In addition, I have also completed several independent projects, including creating my own [website](https://chrisdedman.github.io) using HTML and CSS. I am constantly seeking out opportunities to learn and grow, and I am looking for internship opportunities that will allow me to gain practical experience in the field. I am confident that my skills, experience, and determination will make me a valuable asset to any team.
 
 ## Interest:
-* Sofware Engineering
-* Artificial Intelligence
-* Back End 
+* ![Custom badge](https://img.shields.io/badge/-Software%20Engineer-purple)
+* ![Custom badge](https://img.shields.io/badge/-Artificial%20Intelligence-purple)
+* ![Custom badge](https://img.shields.io/badge/-Back%20End-purple)
 
 ## Languages
+* ![Custom badge](https://img.shields.io/badge/-Python-darkblue)
+* ![Custom badge](https://img.shields.io/badge/-C++-darkblue)
+* ![Custom badge](https://img.shields.io/badge/-Java-darkblue)
 
-* ![Custom badge](https://img.shields.io/badge/-Python-blue)
-* ![Custom badge](https://img.shields.io/badge/-C++-blue)
-* ![Custom badge](https://img.shields.io/badge/-Java-blue)
+## Operating System
+* ![Custom badge](https://img.shields.io/badge/-MacOS-grey)
+* ![Custom badge](https://img.shields.io/badge/-Linux-grey)
+* ![Custom badge](https://img.shields.io/badge/-Windows-grey)
 
 ## My Project
 * [Near Earth Object Tracking](https://github.com/chrisdedman/Near_Earth_Object)
@@ -22,12 +26,12 @@ As a student, I have completed several programming-related courses and have cons
 * [Work Management App](https://github.com/chrisdedman/work_management)
 
 ## Open-Source Contribution
-* Grace Open-Source Discord Bot
+* [Grace](https://github.com/Code-Society-Lab/grace) Open-Source Discord Bot
     * [Weather Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/weather_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/51)
     * [Translator Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/translator_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/81)
     * [Updated Documentation](https://github.com/Code-Society-Lab/grace/pull/88)
     * [Code Generator Feature (OpenAI)](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/code_generator_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/89)
 
 ## Contact 📫
-* [![Custom badge](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/DedmanRollet)
-* [![Custom badge](https://img.shields.io/badge/-Blog-blue)](https://chrisdedman.github.io)
+* [![Custom badge](https://img.shields.io/badge/-Twitter-darkred)](https://twitter.com/DedmanRollet)
+* [![Custom badge](https://img.shields.io/badge/-Blog-darkred)](https://chrisdedman.github.io)
