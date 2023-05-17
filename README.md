@@ -5,7 +5,7 @@ Chris here! I am a computer science student currently pursuing a Bachelor of Sci
 
 As a student, I have completed several programming-related courses and have consistently received high marks for my work. In addition, I have also completed several independent projects, including creating my own [website](https://chrisdedman.github.io) using HTML and CSS. I am constantly seeking out opportunities to learn and grow, and I am looking for internship opportunities that will allow me to gain practical experience in the field. I am confident that my skills, experience, and determination will make me a valuable asset to any team.
 
-## Interest:
+## Interests:
 * ![Custom badge](https://img.shields.io/badge/-Software%20Engineer-purple)
 * ![Custom badge](https://img.shields.io/badge/-Artificial%20Intelligence-purple)
 * ![Custom badge](https://img.shields.io/badge/-Back%20End-purple)
@@ -20,12 +20,12 @@ As a student, I have completed several programming-related courses and have cons
 * ![Custom badge](https://img.shields.io/badge/-Linux-grey)
 * ![Custom badge](https://img.shields.io/badge/-Windows-grey)
 
-## My Project
+## My Projects
 * [Near Earth Object Tracking](https://github.com/chrisdedman/Near_Earth_Object)
 * [Air Quality Py](https://github.com/chrisdedman/air_quality)
 * [Work Management App](https://github.com/chrisdedman/work_management)
 
-## Open-Source Contribution
+## Open-Source Contributions
 * [Grace](https://github.com/Code-Society-Lab/grace) Open-Source Discord Bot
     * [Weather Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/weather_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/51)
     * [Translator Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/translator_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/81)
