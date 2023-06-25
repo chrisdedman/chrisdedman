@@ -7,7 +7,6 @@ As a student, I have completed several programming-related courses and have cons
 
 ## Interests:
 * ![Custom badge](https://img.shields.io/badge/-Software%20Engineer-purple)
-* ![Custom badge](https://img.shields.io/badge/-Artificial%20Intelligence-purple)
 * ![Custom badge](https://img.shields.io/badge/-Back%20End-purple)
 
 ## Languages
