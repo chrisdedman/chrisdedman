@@ -6,7 +6,8 @@ Chris here! I am a computer science student currently pursuing a Bachelor of Sci
 As a student, I have completed several programming-related courses and have consistently received high marks for my work. In addition, I have also completed several independent projects, including creating my own [website](https://chrisdedman.github.io) using HTML and CSS. I am constantly seeking out opportunities to learn and grow, and I am looking for internship opportunities that will allow me to gain practical experience in the field. I am confident that my skills, experience, and determination will make me a valuable asset to any team.
 
 ## Interests:
-* ![Custom badge](https://img.shields.io/badge/-Software%20Engineer-purple)
+* ![Custom badge](https://img.shields.io/badge/-Software%20Engineering-purple)
+* ![Custom badge](https://img.shields.io/badge/-Embedded%20System-purple)
 * ![Custom badge](https://img.shields.io/badge/-Back%20End-purple)
 
 ## Languages
