@@ -29,6 +29,7 @@ As a student, I have completed several programming-related courses and have cons
 * [Near Earth Object Tracking](https://github.com/chrisdedman/Near_Earth_Object)
 * [Air Quality Py](https://github.com/chrisdedman/air_quality)
 * [Work Management App](https://github.com/chrisdedman/work_management)
+* [Weather Station](https://github.com/chrisdedman/weather_station)
 
 ## Open-Source Contributions 🧰
 * [Grace](https://github.com/Code-Society-Lab/grace) Open-Source Discord Bot
