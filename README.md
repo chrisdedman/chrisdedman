@@ -23,6 +23,7 @@ As a student, I have completed several programming-related courses and have cons
 ## Currently Learning 📖
 * ![Custom badge](https://img.shields.io/badge/-Golang-darkred)
 * ![Custom badge](https://img.shields.io/badge/-Elixir-darkred)
+* ![Custom badge](https://img.shields.io/badge/-Performance%20Load%20Testing-darkred)
 
 ## My Projects 👨‍💻
 * [Near Earth Object Tracking](https://github.com/chrisdedman/Near_Earth_Object)
