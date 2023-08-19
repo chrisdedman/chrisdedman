@@ -39,6 +39,7 @@ As a student, I have completed several programming-related courses and have cons
     * [Code Generator Feature (OpenAI)](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/code_generator_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/89)
 * [Cursif](https://github.com/Code-Society-Lab/cursif) Note-taking Application
     * [Create & Manage Macros (Backend)](https://github.com/Code-Society-Lab/cursif-backend/pull/5)
+    * [Manage User Informations](https://github.com/Code-Society-Lab/cursif-backend/pull/7)
 
 ## Contact 📫
 * [![Custom badge](https://img.shields.io/badge/-Twitter-darkred)](https://twitter.com/DedmanRollet)
