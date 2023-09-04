@@ -43,6 +43,8 @@ As a student, I have completed several programming-related courses and have cons
     * [Create & Manage Collaborator](https://github.com/Code-Society-Lab/cursif-backend/pull/8)
     * [Manage User Informations](https://github.com/Code-Society-Lab/cursif-backend/pull/7)
     * [Rate Limit on API Responses](https://github.com/Code-Society-Lab/cursif-backend/pull/10)
+  * Frontend
+    * [Notification/Alert Messages](https://github.com/Code-Society-Lab/cursif-web/pull/7)  
 
 ## Contact 📫
 * [![Custom badge](https://img.shields.io/badge/-Twitter-darkred)](https://twitter.com/DedmanRollet)
