@@ -44,6 +44,7 @@ As a student, I have completed several programming-related courses and have cons
     * [Manage User Informations](https://github.com/Code-Society-Lab/cursif-backend/pull/7)
     * [Rate Limit on API Responses](https://github.com/Code-Society-Lab/cursif-backend/pull/10)
     * [Email Validation for User Registration](https://github.com/Code-Society-Lab/cursif-backend/pull/12)
+    * [Password Reset](https://github.com/Code-Society-Lab/cursif-backend/pull/15)
   * Frontend
     * [Notification/Alert Messages](https://github.com/Code-Society-Lab/cursif-web/pull/7)  
 
