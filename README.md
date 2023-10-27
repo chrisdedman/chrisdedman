@@ -46,7 +46,8 @@ As a student, I have completed several programming-related courses and have cons
     * [Email Validation for User Registration](https://github.com/Code-Society-Lab/cursif-backend/pull/12)
     * [Password Reset](https://github.com/Code-Society-Lab/cursif-backend/pull/15)
   * Frontend
-    * [Notification/Alert Messages](https://github.com/Code-Society-Lab/cursif-web/pull/7)  
+    * [Notification/Alert Messages](https://github.com/Code-Society-Lab/cursif-web/pull/7)
+    * [Disclaimer Banner](https://github.com/Code-Society-Lab/cursif-web/pull/18)
 
 ## Contact 📫
 * [![Custom badge](https://img.shields.io/badge/-Twitter-darkred)](https://twitter.com/DedmanRollet)
