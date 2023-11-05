@@ -48,6 +48,7 @@ As a student, I have completed several programming-related courses and have cons
   * Frontend
     * [Notification/Alert Messages](https://github.com/Code-Society-Lab/cursif-web/pull/7)
     * [Disclaimer Banner](https://github.com/Code-Society-Lab/cursif-web/pull/18)
+    * [Email Address Confirmation](https://github.com/Code-Society-Lab/cursif-web/pull/14)
 
 ## Contact 📫
 * [![Custom badge](https://img.shields.io/badge/-Twitter-darkred)](https://twitter.com/DedmanRollet)
