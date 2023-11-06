@@ -50,6 +50,7 @@ As a student, I have completed several programming-related courses and have cons
     * [Disclaimer Banner](https://github.com/Code-Society-Lab/cursif-web/pull/18)
     * [Email Address Confirmation](https://github.com/Code-Society-Lab/cursif-web/pull/14)
     * [Register Page](https://github.com/Code-Society-Lab/cursif-web/pull/20)
+    * [Password Reset Page](https://github.com/Code-Society-Lab/cursif-web/pull/15)
 
 ## Contact 📫
 * [![Custom badge](https://img.shields.io/badge/-Twitter-darkred)](https://twitter.com/DedmanRollet)
