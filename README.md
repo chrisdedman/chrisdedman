@@ -12,8 +12,9 @@ As a student, I have completed several programming-related courses and have cons
 
 ## Languages 🌐
 * ![Custom badge](https://img.shields.io/badge/-Python-darkblue)
-* ![Custom badge](https://img.shields.io/badge/-C++-darkblue)
+* ![Custom badge](https://img.shields.io/badge/-C/C++-darkblue)
 * ![Custom badge](https://img.shields.io/badge/-Java-darkblue)
+* ![Custom badge](https://img.shields.io/badge/-JavaScript-darkblue)
 
 ## Operating System 💻
 * ![Custom badge](https://img.shields.io/badge/-MacOS-grey)
