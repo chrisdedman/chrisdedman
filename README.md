@@ -55,5 +55,5 @@ More about me below.
     * [Password Reset Page](https://github.com/Code-Society-Lab/cursif-web/pull/15)
 
 ## Contact 📫
-* [![Custom badge](https://img.shields.io/badge/-Twitter-darkred)](https://twitter.com/DedmanRollet)
+* [![Custom badge](https://img.shields.io/badge/-𝕏-darkred)](https://x.com/DedmanRollet)
 * [![Custom badge](https://img.shields.io/badge/-Blog-darkred)](https://chrisdedman.github.io)
