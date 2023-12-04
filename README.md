@@ -39,6 +39,7 @@ More about me below.
     * [Translator Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/translator_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/81)
     * [Updated Documentation](https://github.com/Code-Society-Lab/grace/pull/88)
     * [Code Generator Feature (OpenAI)](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/code_generator_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/89)
+ 
 * [Cursif](https://github.com/Code-Society-Lab/cursif) Note-taking Application
   * Backend
     * [Create & Manage Macros](https://github.com/Code-Society-Lab/cursif-backend/pull/5)
