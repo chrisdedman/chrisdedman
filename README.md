@@ -56,4 +56,4 @@ More about me below.
 
 ## Contact 📫
 * [![Custom badge](https://img.shields.io/badge/-𝕏-darkred)](https://x.com/DedmanRollet)
-* [![Custom badge](https://img.shields.io/badge/-Blog-darkred)](https://chrisdedman.github.io)
+* [![Custom badge](https://img.shields.io/badge/-Portfolio-darkred)](https://chrisdedman.vercel.app)
