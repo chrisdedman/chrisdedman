@@ -15,7 +15,7 @@ More about me below.
 * ![Custom badge](https://img.shields.io/badge/-Python-darkblue)
 * ![Custom badge](https://img.shields.io/badge/-C/C++-darkblue)
 * ![Custom badge](https://img.shields.io/badge/-Java-darkblue)
-* ![Custom badge](https://img.shields.io/badge/-JavaScript-darkblue)
+* ![Custom badge](https://img.shields.io/badge/-TypeScript-darkblue)
 
 ## Operating System 💻
 * ![Custom badge](https://img.shields.io/badge/-MacOS-grey)
