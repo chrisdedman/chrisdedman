@@ -23,8 +23,7 @@ More about me below.
 * ![Custom badge](https://img.shields.io/badge/-Windows-grey)
 
 ## Currently Learning 📖
-* ![Custom badge](https://img.shields.io/badge/-Golang-darkred)
-* ![Custom badge](https://img.shields.io/badge/-Elixir-darkred)
+* ![Custom badge](https://img.shields.io/badge/-Embedded%20Systems%20Engineering-darkred)
 * ![Custom badge](https://img.shields.io/badge/-Web%20Development-darkred)
 
 ## My Projects 👨‍💻
