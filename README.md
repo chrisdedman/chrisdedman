@@ -1,9 +1,9 @@
 # Hi There! Welcome to my GitHub.👋
 
 ## About Me
-Chris here! I am a computer science student currently pursuing a Bachelor of Science degree. I have a strong passion for programming and a deep interest in learning and exploring the field. I have experience with several languages, including Python, C/C++, Java, JavaScript, Elixir and Golang. I have also learned the fundamental of Assembly Language (MASM). In addition to my technical skills, I am also a quick learner, a critical thinker, and a problem-solver. I am eager to apply my knowledge and skills to real-world projects and to continue growing as a programmer.
+Chris here! I am a computer science student currently pursuing a Bachelor of Science degree. I have a strong passion for programming and a deep interest in learning and exploring the field. I have experience with several languages, including Python, C/C++, Java, JavaScript, Elixir, and Golang. I have also learned the fundamentals of Assembly Language (MASM). In addition to my technical skills, I am also a quick learner, a critical thinker, and a problem-solver. I am eager to apply my knowledge and skills to real-world projects and to continue growing as a programmer.
 
-As a student, I have completed several programming-related courses and have consistently received high marks for my work. In addition, I have also completed several independent projects, including creating my own [website](https://chrisdedman.github.io) using HTML and CSS. I am constantly seeking out opportunities to learn and grow, and I am looking for internship opportunities that will allow me to gain practical experience in the field. I am confident that my skills, experience, and determination will make me a valuable asset to any team.
+As a student, I have completed several programming-related courses and have consistently received high marks for my work. In addition, I have also completed several independent projects, including creating my own [website](https://chrisdedman.vercel.app) using TypeScript and Next.JS Framework. I am constantly seeking out opportunities to learn and grow, and I am looking for internship opportunities that will allow me to gain practical experience in the field. I am confident that my skills, experience, and determination will make me a valuable asset to any team.
 More about me below.
   
 ## Interests ❤️
