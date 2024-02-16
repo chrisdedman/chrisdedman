@@ -12,7 +12,7 @@ More about me below.
   
 ## Interests ❤️
 * ![Custom badge](https://img.shields.io/badge/-Software%20Engineering-purple)
-* ![Custom badge](https://img.shields.io/badge/-Embedded%20System-purple)
+* ![Custom badge](https://img.shields.io/badge/-Embedded%20Systems-purple)
 * ![Custom badge](https://img.shields.io/badge/-BackEnd%20Engineering-purple)
 
 ## Languages 🌐
@@ -28,7 +28,8 @@ More about me below.
 
 ## Currently Learning 📖
 * ![Custom badge](https://img.shields.io/badge/-Embedded%20Systems%20Software%20Engineering-darkred)
-* ![Custom badge](https://img.shields.io/badge/-Web%20Development-darkred)
+* ![Custom badge](https://img.shields.io/badge/-Microcontroller-darkred)
+* ![Custom badge](https://img.shields.io/badge/-Drivers-darkred)
 
 ## My Projects 👨‍💻
 * [Near Earth Object Tracking](https://github.com/chrisdedman/Near_Earth_Object)
