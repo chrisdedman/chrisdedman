@@ -1,5 +1,9 @@
 # Hi There! Welcome to my GitHub.👋
 
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisdedman&show_icons=true&theme=holi)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdedman&layout=compact&langs_count=9&hide=html&theme=holi)
+
 ## About Me
 Chris here! I am a computer science student currently pursuing a Bachelor of Science degree. I have a strong passion for programming and a deep interest in learning and exploring the field. I have experience with several languages, including Python, C/C++, Java, JavaScript, Elixir, and Golang. I have also learned the fundamentals of Assembly Language (MASM). In addition to my technical skills, I am also a quick learner, a critical thinker, and a problem-solver. I am eager to apply my knowledge and skills to real-world projects and to continue growing as a programmer.
 
