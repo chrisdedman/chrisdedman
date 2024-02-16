@@ -1,5 +1,5 @@
 <h1 align="center">Chris Dedman</h1>
-<h3 align="center">Computer Scientist, Aspirant Software Engineer</h3>
+<h4 align="center">Computer Scientist Student, Aspirant Software Engineer</h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdedman&layout=compact&langs_count=9&hide=html&theme=github_dark&hide_border=true&show_owner=true)
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisdedman&show_icons=true&theme=github_dark&hide_border=true&show_owner=true)
