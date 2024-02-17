@@ -1,8 +1,11 @@
 <h1 align="center">Chris Dedman</h1>
 <h4 align="center">Computer Scientist Student, Aspirant Software Engineer</h4>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdedman&layout=compact&langs_count=9&hide=html,css&theme=github_dark&hide_border=true&show_owner=true)
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisdedman&show_icons=true&theme=github_dark&hide_border=true&show_owner=true)
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisdedman&theme=github_dark-blue&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chrisdedman&show_icons=true&theme=github_dark&hide_border=true&show_owner=true">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdedman&layout=compact&langs_count=9&hide=html,css&theme=github_dark&hide_border=true&show_owner=true" />
+</p>
 
 ## About Me
 I am a first-generation computer science student pursuing a Bachelor of Science degree. I have a strong passion for programming and a deep interest in learning and exploring the field. I have experience with several languages, including Python, C/C++, Java, JavaScript, Elixir, and Golang. I have also learned the fundamentals of Assembly Language (MASM). My current focus is learning embedded systems software engineering and low-level programming, as well as design and analysis of algorithms. In addition to my technical skills, I am a quick learner, a critical thinker, and a problem-solver. I am eager to apply my knowledge and skills to real-world projects and to continue growing as a programmer. As a student, I have completed several programming-related courses and have consistently received high marks for my work. In addition, I have also completed several independent projects, including contributing to open-source projects. I am constantly seeking out opportunities to learn and grow, and I am looking for internship opportunities that will allow me to gain practical experience in the field.
