@@ -4,7 +4,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisdedman&theme=github_dark-blue&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chrisdedman&show_icons=true&theme=github_dark&hide_border=true&show_owner=true">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdedman&layout=compact&langs_count=9&hide=html,css&theme=github_dark&hide_border=true&show_owner=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdedman&layout=compact&langs_count=9&hide=javascript,html,css&theme=github_dark&hide_border=true&show_owner=true" />
 </p>
 
 ## About Me
