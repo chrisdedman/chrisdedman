@@ -58,6 +58,7 @@ I am a first-generation computer science student pursuing a Bachelor of Science 
     * [Email Address Confirmation](https://github.com/Code-Society-Lab/cursif-web/pull/14)
     * [Register Page](https://github.com/Code-Society-Lab/cursif-web/pull/20)
     * [Password Reset Page](https://github.com/Code-Society-Lab/cursif-web/pull/15)
+    * [Create New Notebook Page](https://github.com/Code-Society-Lab/cursif-web/pull/39)
 
 ## Contact 📫
 * [![Custom badge](https://img.shields.io/badge/-𝕏-darkred)](https://x.com/DedmanRollet)
