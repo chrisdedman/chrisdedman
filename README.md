@@ -8,16 +8,17 @@
 </p>
 
 ## About Me
-I am a first-generation computer science student pursuing a Bachelor of Science degree. I have a strong passion for programming and a deep interest in learning and exploring the field. I have experience with several languages, including Python, C/C++, Java, JavaScript, Elixir, and Golang. I have also learned the fundamentals of Assembly Language (MASM). My current focus is learning embedded systems software engineering and low-level programming, as well as design and analysis of algorithms. In addition to my technical skills, I am a quick learner, a critical thinker, and a problem-solver. I am eager to apply my knowledge and skills to real-world projects and to continue growing as a programmer. As a student, I have completed several programming-related courses and have consistently received high marks for my work. In addition, I have also completed several independent projects, including contributing to open-source projects. I am constantly seeking out opportunities to learn and grow, and I am looking for internship opportunities that will allow me to gain practical experience in the field.
+I am a first-generation computer science student pursuing a Bachelor of Science degree. I have a strong passion for programming and a deep interest in learning and exploring the field. I have experience with several programming languages, including Python, C/C++, Java, JavaScript, Elixir, and Golang. I have also learned the fundamentals of Assembly Language (MASM for x86). My current focus is learning embedded systems software engineering and low-level programming (ARM Assembly), as well as design and analysis of algorithms. In addition to my technical skills, I am a quick learner, a critical thinker, and a problem-solver. I am eager to apply my knowledge and skills to real-world projects and to continue growing as a programmer. As a student, I have completed several programming-related courses and have consistently received high marks for my work. In addition, I have also completed several independent projects, including contributing to open-source projects. I am constantly seeking out opportunities to learn and grow, and I am looking for internship opportunities that will allow me to gain practical experience in the field.
   
 ## Interests ❤️
 * ![Custom badge](https://img.shields.io/badge/-Software%20Engineering-purple)
 * ![Custom badge](https://img.shields.io/badge/-Embedded%20Systems-purple)
-* ![Custom badge](https://img.shields.io/badge/-BackEnd%20Engineering-purple)
+* ![Custom badge](https://img.shields.io/badge/-Full%20Stack%20Engineering-purple)
 
 ## Languages 🌐
-* ![Custom badge](https://img.shields.io/badge/-Python-darkblue)
 * ![Custom badge](https://img.shields.io/badge/-C/C++-darkblue)
+* ![Custom badge](https://img.shields.io/badge/-Python-darkblue)
+* ![Custom badge](https://img.shields.io/badge/-Golang-darkblue)
 * ![Custom badge](https://img.shields.io/badge/-Java-darkblue)
 * ![Custom badge](https://img.shields.io/badge/-TypeScript-darkblue)
 
@@ -32,6 +33,7 @@ I am a first-generation computer science student pursuing a Bachelor of Science 
 * ![Custom badge](https://img.shields.io/badge/-Drivers-darkred)
 
 ## My Projects 👨‍💻
+* [Full stack Golang Web Application Template](https://github.com/chrisdedman/Golang-Web-App)
 * [Near Earth Object Tracking](https://github.com/chrisdedman/Near_Earth_Object)
 * [Air Quality Py](https://github.com/chrisdedman/air_quality)
 * [Work Management App](https://github.com/chrisdedman/work_management)
