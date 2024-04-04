@@ -1,5 +1,5 @@
 <h1 align="center">Chris Dedman</h1>
-<h4 align="center">Computer Scientist Student, Aspirant Software Engineer</h4>
+<h4 align="center">Computer Science Student | Aspiring Software Engineer</h4>
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisdedman&theme=github_dark-blue&hide_border=true" />
@@ -8,7 +8,11 @@
 </p>
 
 ## About Me
-I am a first-generation computer science student pursuing a Bachelor of Science degree. I have a strong passion for programming and a deep interest in learning and exploring the field. I have experience with several programming languages, including Python, C/C++, Java, JavaScript, Elixir, and Golang. I have also learned the fundamentals of Assembly Language (MASM for x86). My current focus is learning embedded systems software engineering and low-level programming (ARM Assembly), as well as design and analysis of algorithms. In addition to my technical skills, I am a quick learner, a critical thinker, and a problem-solver. I am eager to apply my knowledge and skills to real-world projects and to continue growing as a programmer. As a student, I have completed several programming-related courses and have consistently received high marks for my work. In addition, I have also completed several independent projects, including contributing to open-source projects. I am constantly seeking out opportunities to learn and grow, and I am looking for internship opportunities that will allow me to gain practical experience in the field.
+I am a first-generation Computer Science student pursuing a Bachelor of Science degree. My passion lies in programming, and I'm deeply interested in exploring various facets of the field. I have experience with several programming languages including Python, C/C++, Java, JavaScript, Elixir, and Golang. I've also delved into Assembly Language (MASM for x86). 
+
+Currently, I'm focused on learning embedded systems software engineering and low-level programming (ARM Assembly), as well as honing my skills in algorithm design and analysis. Alongside my technical prowess, I pride myself on being a quick learner, a critical thinker, and a problem-solver. I'm eager to apply my knowledge and skills to real-world projects and to continue evolving as a programmer. 
+
+I've completed several programming-related courses with high grades and have also undertaken various independent projects, including contributions to open-source initiatives. I'm always on the lookout for opportunities to learn and grow, and I'm actively seeking internship opportunities to gain practical experience in the field.
   
 #### Interests ❤️
 * ![Custom badge](https://img.shields.io/badge/-Software%20Engineering-purple)
@@ -33,7 +37,7 @@ I am a first-generation computer science student pursuing a Bachelor of Science 
 * ![Custom badge](https://img.shields.io/badge/-Drivers-darkred)
 
 #### My Projects 👨‍💻
-* [Full stack Golang Web Application Template](https://github.com/chrisdedman/Golang-Web-App)
+* [Full Stack Golang Web Application Template](https://github.com/chrisdedman/Golang-Web-App)
 * [Near Earth Object Tracking](https://github.com/chrisdedman/Near_Earth_Object)
 * [Air Quality Py](https://github.com/chrisdedman/air_quality)
 * [Work Management App](https://github.com/chrisdedman/work_management)
@@ -78,5 +82,4 @@ I am a first-generation computer science student pursuing a Bachelor of Science 
 </details>
 
 ## Contact 📫
-* [![Custom badge](https://img.shields.io/badge/-𝕏-darkred)](https://x.com/DedmanRollet)
 * [![Custom badge](https://img.shields.io/badge/-Portfolio-darkred)](https://chrisdedman.vercel.app)
