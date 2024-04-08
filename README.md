@@ -7,13 +7,10 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdedman&layout=compact&langs_count=9&hide=javascript,html,css&theme=github_dark&hide_border=true&show_owner=true" />
 </p>
 
+
 ## About Me
-I am a first-generation Computer Science student pursuing a Bachelor of Science degree. My passion lies in programming, and I'm deeply interested in exploring various facets of the field. I have experience with several programming languages including Python, C/C++, Java, JavaScript, Elixir, and Golang. I've also delved into Assembly Language (MASM for x86). 
+I am a first-generation Computer Science student pursuing a Bachelor of Science degree. My passion lies in programming, and I'm deeply interested in exploring various area of the software engineering. I have experience with several programming languages including Python, C/C++, Java, TypeScript, Elixir, and Golang. I've also learned the fundamentals of Assembly Language (MASM for x86). Currently, I'm focused on learning embedded systems software engineering and low-level programming (ARM Assembly), as well as algorithm design and analysis.
 
-Currently, I'm focused on learning embedded systems software engineering and low-level programming (ARM Assembly), as well as honing my skills in algorithm design and analysis. Alongside my technical prowess, I pride myself on being a quick learner, a critical thinker, and a problem-solver. I'm eager to apply my knowledge and skills to real-world projects and to continue evolving as a programmer. 
-
-I've completed several programming-related courses with high grades and have also undertaken various independent projects, including contributions to open-source initiatives. I'm always on the lookout for opportunities to learn and grow, and I'm actively seeking internship opportunities to gain practical experience in the field.
-  
 #### Interests ❤️
 * ![Custom badge](https://img.shields.io/badge/-Software%20Engineering-purple)
 * ![Custom badge](https://img.shields.io/badge/-Embedded%20Systems-purple)
@@ -34,7 +31,7 @@ I've completed several programming-related courses with high grades and have als
 #### Currently Learning 📖
 * ![Custom badge](https://img.shields.io/badge/-Embedded%20Systems%20Software%20Engineering-darkred)
 * ![Custom badge](https://img.shields.io/badge/-Microcontroller-darkred)
-* ![Custom badge](https://img.shields.io/badge/-Drivers-darkred)
+* ![Custom badge](https://img.shields.io/badge/-Golang%20Full%20Stack%20Development-darkred)
 
 #### My Projects 👨‍💻
 * [Full Stack Golang Web Application Template](https://github.com/chrisdedman/Golang-Web-App)
