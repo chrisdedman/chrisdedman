@@ -49,25 +49,7 @@ I am a first-generation Computer Science student pursuing a Bachelor of Science 
     <a href="https://github.com/Code-Society-Lab/cursif">Cursif</a> 
   </summary>
   
-  <details open>
-    <summary>Backend</summary>
-    
-   - [Create & Manage Macros](https://github.com/Code-Society-Lab/cursif-backend/pull/5)
-   - [Create & Manage Collaborator](https://github.com/Code-Society-Lab/cursif-backend/pull/8)
-   - [Manage User Information](https://github.com/Code-Society-Lab/cursif-backend/pull/7)
-   - [Rate Limit on API Responses](https://github.com/Code-Society-Lab/cursif-backend/pull/10)
-   - [Email Validation for User Registration](https://github.com/Code-Society-Lab/cursif-backend/pull/12)
-   - [Password Reset](https://github.com/Code-Society-Lab/cursif-backend/pull/15)
-  </details>
-  
-  <details open>
-    <summary>Frontend</summary>
-    
-   - [Notification/Alert Messages](https://github.com/Code-Society-Lab/cursif-web/pull/7)
-   - [Disclaimer Banner](https://github.com/Code-Society-Lab/cursif-web/pull/18)
-   - [Email Address Confirmation](https://github.com/Code-Society-Lab/cursif-web/pull/14)
-   - [Register Page](https://github.com/Code-Society-Lab/cursif-web/pull/20)
-   - [Password Reset Page](https://github.com/Code-Society-Lab/cursif-web/pull/15)
-   - [Create New Notebook Page](https://github.com/Code-Society-Lab/cursif-web/pull/39)
+  - <a href="https://github.com/Code-Society-Lab/cursif-backend">Backend</a> 
+  - <a href="https://github.com/Code-Society-Lab/cursif-web">Frontend</a> 
   </details>
 </details>
