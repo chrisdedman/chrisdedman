@@ -29,7 +29,7 @@ I am a first-generation Computer Science student pursuing a Bachelor of Science 
 
 #### Personal Projects 👨‍💻
 * [Full Stack Golang Web Application Template](https://github.com/chrisdedman/Golang-Web-App)
-* [Near Earth Object Tracking](https://github.com/chrisdedman/Near_Earth_Object)
+* [Near Earth Object Tracking](https://github.com/chrisdedman/py-neo)
 * [Air Quality Py](https://github.com/chrisdedman/air_quality)
 * [Work Management App](https://github.com/chrisdedman/work_management)
 * [Weather Station](https://github.com/chrisdedman/weather_station)
