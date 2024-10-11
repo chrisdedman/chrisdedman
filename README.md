@@ -9,7 +9,9 @@
 
 
 ## About Me
-I am a first-generation Computer Science student pursuing a Bachelor of Science degree. My passion lies in programming, and I'm deeply interested in exploring various area of software engineering. I have experience with several programming languages including Python, C/C++, Java, TypeScript, Elixir, and Golang. I've also learned the fundamentals of Assembly Language (MASM for x86). Currently, I'm focused on learning embedded systems software engineering and low-level programming (ARM Assembly).
+I am a first-generation Computer Science student pursuing a Bachelor of Science degree. My passion lies in programming, and I'm deeply interested in exploring various areas of software engineering. I have experience with several programming languages including Python, C/C++, Java, TypeScript, Elixir, and Golang. I've also learned the fundamentals of Assembly Language (MASM for x86). Currently, I'm focused on learning embedded systems software engineering and low-level programming (ARM Assembly).
+
+I am currently working on [eXv6 RISC-V](https://github.com/chrisdedman/eXv6_RISC-V_OS) for the purpose of learning operating system development. It is a re-reimplementation of the Unix Version 6 operating system for RISC-V, originally initiated by MIT.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://chrisdedman.vercel.app)
 
