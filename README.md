@@ -7,13 +7,12 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdedman&layout=compact&langs_count=9&hide=javascript,html,css&theme=github_dark&hide_border=true&show_owner=true" />
 </p>
 
-
 ## About Me
 I am a first-generation Computer Science student pursuing a Bachelor of Science degree. My passion lies in programming, and I'm deeply interested in exploring various areas of software engineering. I have experience with several programming languages including Python, C/C++, Java, TypeScript, Elixir, and Golang. I've also learned the fundamentals of Assembly Language (MASM for x86). Currently, I'm focused on learning embedded systems software engineering and low-level programming (ARM Assembly).
 
 I am currently working on [eXv6 RISC-V](https://github.com/chrisdedman/eXv6_RISC-V) for the purpose of learning operating system development. It is a re-reimplementation of the Unix Version 6 operating system for RISC-V, originally initiated by MIT.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://chrisdedman.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://chrisdedman.vercel.app) [![Matrix](https://img.shields.io/badge/Matrix-%23181717.svg?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/!fNvPVlkWbUkMKOZijg:matrix.org)
 
 ### Tools 🌐 
 ###### Click on badges for the link
@@ -37,8 +36,16 @@ I am currently working on [eXv6 RISC-V](https://github.com/chrisdedman/eXv6_RISC
 * [Weather Station](https://github.com/chrisdedman/weather_station)
 
 #### Open-Source Contributions 🧰
+<summary>
+  Mostly active in <a href="https://github.com/Code-Society-Lab">The Code Society Organization</a> 
+</summary>
+
+<br>
+
 <details open>
-  <summary><a href="https://github.com/Code-Society-Lab/grace">Grace Discord Bot</a></summary>
+  <summary>
+    <a href="https://github.com/Code-Society-Lab/grace">Grace Discord Bot</a>
+  </summary>
   
   - [Weather Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/weather_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/51)
   - [Translator Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/translator_cog.py) -> [PR](https://github.com/Code-Society-Lab/grace/pull/81)
@@ -53,5 +60,4 @@ I am currently working on [eXv6 RISC-V](https://github.com/chrisdedman/eXv6_RISC
   
   - <a href="https://github.com/Code-Society-Lab/cursif-backend">Backend</a> 
   - <a href="https://github.com/Code-Society-Lab/cursif-web">Frontend</a> 
-  </details>
 </details>
