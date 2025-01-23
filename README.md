@@ -4,7 +4,7 @@
 
 <p align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=chrisdedman&show_icons=true&theme=github_dark&hide_border=true&show_owner=true">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisdedman&theme=github_dark-blue&hide_border=true" />
+<!--   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisdedman&theme=github_dark-blue&hide_border=true" /> -->
 </p>
 
 ## About Me
