@@ -10,7 +10,7 @@
 ## About Me
 I am a first-generation Computer Science student pursuing a Bachelor of Science degree. My passion lies in programming, and I'm deeply interested in exploring various areas of software engineering. I have experience with several programming languages, including Python, C/C++, Java, TypeScript, Elixir, and Go. I've also learned the fundamentals of Assembly Language (MASM for x86). Currently, I'm focused on learning embedded systems software engineering and low-level programming (ARM Assembly).
 
-I am currently working on a [code editor](https://github.com/sandbox-science/CodeAstra) project to improve my skills in software development, UI/UX design, and team lead as I am working with a group of students from California States University, Dominguez Hills. The project focuses on creating a customizable and efficient code editing experience, with features for developers of all levels. Feel free to check it out!
+I am leading the [Sandbox Science](https://github.com/sandbox-science) open-source group as well as currently working on a [code editor](https://github.com/sandbox-science/CodeAstra) project to improve my skills in software development, UI/UX design, and team lead as I am working with a group of students from California States University, Dominguez Hills. The project focuses on creating a customizable and efficient code editing experience, with features for developers of all levels. Feel free to check it out!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://chrisdedman.vercel.app) [![Matrix](https://img.shields.io/badge/Matrix-%23181717.svg?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/!fNvPVlkWbUkMKOZijg:matrix.org)
 
@@ -41,7 +41,9 @@ I am currently working on a [code editor](https://github.com/sandbox-science/Cod
 
 
 ### Open-Source Contributions 🧰
-**Mostly active in [The Code Society Organization](https://github.com/Code-Society-Lab)**
+**[The Code Society Organization](https://github.com/Code-Society-Lab)**
+
+**[SandBox Science Organization](https://github.com/sandbox-science)**
 
 <br>
 
