@@ -1,5 +1,5 @@
 <h1 align="center">Chris Dedman</h1>
-<h4 align="center">Computer Science Student | Aspiring Software Engineer</h4>
+<h4 align="center">Computer Scientist | Aspiring Software Engineer</h4>
 
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 ## About Me
-I am a first-generation Computer Science student pursuing a Bachelor of Science degree. My passion lies in programming, and I'm deeply interested in exploring various areas of software engineering. I have experience with several programming languages, including Python, C/C++, Java, TypeScript, Elixir, and Go. I've also learned the fundamentals of Assembly Language (MASM for x86). Currently, I'm focused on learning embedded systems software engineering and low-level programming (ARM Assembly).
+I recently graduated (May 2025) with a Bachelor of Science in Computer Science, and I'm proud to be a first-generation college graduate. I bring a strong passion for programming and a deep curiosity for learning new technologies. My passion lies in programming, and I'm deeply interested in exploring various areas of software engineering. I have experience with several programming languages, including Python, C, C++, Java, TypeScript, Elixir, and Go. I've also learned the fundamentals of Assembly Language (MASM for x86).
 
 I am leading the [Sandbox Science](https://github.com/sandbox-science) open-source group as well as currently working on a [code editor](https://github.com/sandbox-science/CodeAstra) project to improve my skills in software development, UI/UX design, and team lead as I am working with a group of students from California States University, Dominguez Hills. The project focuses on creating a customizable and efficient code editing experience, with features for developers of all levels. Feel free to check it out!
 
@@ -34,32 +34,25 @@ I am leading the [Sandbox Science](https://github.com/sandbox-science) open-sour
 
 ### Personal Projects 👨‍💻
 - **[Full Stack Golang Web Application Template](https://github.com/chrisdedman/Golang-Web-App)**: A boilerplate template for quickly setting up a full-stack web application using Go with backend APIs, database integration, and frontend setup.
-- **[Near Earth Object Tracking](https://github.com/chrisdedman/py-neo)**: A Python project for tracking and analyzing data on near-Earth objects (NEOs), utilizing public NASA API.
+- **[Near Earth Object Tracking](https://github.com/chrisdedman/py-neo)**: A Python project for tracking and analyzing data on near-Earth objects (NEOs), utilizing the public NASA API.
 - **[Air Quality Py](https://github.com/chrisdedman/air_quality)**: A Python application that monitors and reports air quality based on real-time data from environmental API.
 - **[Work Management App](https://github.com/chrisdedman/work_management)**: A task and project management tool built to help users organize their workflow with task-tracking features.
 - **[Weather Station](https://github.com/chrisdedman/weather_station)**: A project that aggregates weather data and displays it through a user-friendly interface, built with Python and weather data API.
 
 
 ### Open-Source Contributions 🧰
-**[The Code Society Organization](https://github.com/Code-Society-Lab)**
 
-**[SandBox Science Organization](https://github.com/sandbox-science)**
+
+**[SandBox Science Organization](https://github.com/sandbox-science)**: Lead developer, and organization owner.
 
 <br>
 
 <details open>
-  <summary><strong><a href="https://github.com/Code-Society-Lab/grace">Grace Discord Bot</a></strong></summary>
+  <summary><strong><a href="https://github.com/Code-Society-Lab">The Code Society Organization</a></strong></summary>
   
-  - **[Weather Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/weather_cog.py)**: Added a feature for weather updates -> [PR #51](https://github.com/Code-Society-Lab/grace/pull/51)
-  - **[Translator Feature](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/translator_cog.py)**: Implemented a translator tool -> [PR #81](https://github.com/Code-Society-Lab/grace/pull/81)
-  - **Updated Documentation**: Enhanced and updated the documentation -> [PR #88](https://github.com/Code-Society-Lab/grace/pull/88)
-  - **[Code Generator Feature (OpenAI)](https://github.com/Code-Society-Lab/grace/blob/main/bot/extensions/code_generator_cog.py)**: Integrated a code generation feature using OpenAI -> [PR #89](https://github.com/Code-Society-Lab/grace/pull/89)
+  - **[Grace Discord Bot](https://github.com/Code-Society-Lab/grace/commits?author=chrisdedman)**: The official Code Society Discord bot.
+  - **[matrix.py](https://github.com/Code-Society-Lab/matrixpy/commits?author=chrisdedman)**: A simple, developer-friendly library for creating Matrix bots.
+  - **[Grace Framework](https://github.com/Code-Society-Lab/grace-framework/commits?author=chrisdedman)**: Extensible Discord bot framework written in Python.
+  - **[Cursif Backend](https://github.com/Code-Society-Lab/cursif-backend/commits?author=chrisdedman)**: Worked on server-side development and API integration.
+  - **[Cursif Frontend](https://github.com/Code-Society-Lab/cursif-web/commits?author=chrisdedman)**: Developed client-side interfaces and user experience features.
 </details>
-
-<details open>
-  <summary><strong><a href="https://github.com/Code-Society-Lab/cursif">Cursif</a></strong></summary>
-  
-  - **[Backend](https://github.com/Code-Society-Lab/cursif-backend)**: Worked on server-side development and API integration.
-  - **[Frontend](https://github.com/Code-Society-Lab/cursif-web)**: Developed client-side interfaces and user experience features.
-</details>
-
