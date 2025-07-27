@@ -4,13 +4,11 @@
 
 <p align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=chrisdedman&show_icons=true&theme=github_dark&hide_border=true&show_owner=true">
-<!--   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisdedman&theme=github_dark-blue&hide_border=true" /> -->
 </p>
 
-## About Me
-I recently graduated (May 2025) with a Bachelor of Science in Computer Science, and I'm proud to be a first-generation college graduate. I bring a strong passion for programming and a deep curiosity for learning new technologies. My passion lies in programming, and I'm deeply interested in exploring various areas of software engineering. I have experience with several programming languages, including Python, C, C++, Java, TypeScript, Elixir, and Go. I've also learned the fundamentals of Assembly Language (MASM for x86).
+## Hello there
 
-I am leading the [Sandbox Science](https://github.com/sandbox-science) open-source group as well as currently working on a [code editor](https://github.com/sandbox-science/CodeAstra) project to improve my skills in software development, UI/UX design, and team lead as I am working with a group of students from California States University, Dominguez Hills. The project focuses on creating a customizable and efficient code editing experience, with features for developers of all levels. Feel free to check it out!
+I am leading the [Sandbox Science](https://github.com/sandbox-science) open-source group, where most of my work is hosted.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://chrisdedman.vercel.app) [![Matrix](https://img.shields.io/badge/Matrix-%23181717.svg?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/!fNvPVlkWbUkMKOZijg:matrix.org)
 
