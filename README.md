@@ -6,15 +6,9 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=chrisdedman&show_icons=true&theme=github_dark&hide_border=true&show_owner=true">
 </p>
 
-## Hello there
-
 I am leading the [Sandbox Science](https://github.com/sandbox-science) open-source group, where most of my work is hosted.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://chrisdedman.vercel.app) [![Matrix](https://img.shields.io/badge/Matrix-%23181717.svg?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/!fNvPVlkWbUkMKOZijg:matrix.org)
-
-<p align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdedman&layout=compact&langs_count=9&hide=javascript,html,css&theme=github_dark&hide_border=true&show_owner=true" />
-</p>
 
 ### Languages & Tools 🌐 
 <div align="center">
