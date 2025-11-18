@@ -8,7 +8,7 @@
 
 I am leading the [Sandbox Science](https://github.com/sandbox-science) open-source group, where most of my work is hosted.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://chrisdedman.vercel.app) [![SandboxScience](https://img.shields.io/badge/SandboxScience-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FFF189)](https://sandboxscience.vercel.app/) [![Matrix](https://img.shields.io/badge/Matrix-%23181717.svg?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/!fNvPVlkWbUkMKOZijg:matrix.org)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://chrisdedman.vercel.app) [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://astradedman.vercel.app)  [![SandboxScience](https://img.shields.io/badge/SandboxScience-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FFF189)](https://sandboxscience.vercel.app/) [![Matrix](https://img.shields.io/badge/Matrix-%23181717.svg?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/!fNvPVlkWbUkMKOZijg:matrix.org)
 
 
 ### Personal Projects 👨‍💻
