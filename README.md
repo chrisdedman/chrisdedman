@@ -13,6 +13,7 @@ I am leading the [Sandbox Science](https://github.com/sandbox-science) open-sour
 
 ### Personal Projects 👨‍💻
 - **[AstraKernel](https://github.com/sandbox-science/AstraKernel)**: Experimental micro kernel for QEMU written in modern C and ARM Assembly.
+- **[AstraPulse](https://github.com/sandbox-science/AstraPulse)**: A minimalist timer app designed for simplicity and ease of use.
 - **[DevLog](https://github.com/sandbox-science/devlog)**: CLI tool that records developer workflow, capturing notes, shell activity, and Git actions.
 - **[CodeAstra](https://github.com/sandbox-science/CodeAstra)**: Code Editor written in modern C++ and Qt6 framework.
 - **[CapSki](https://github.com/sandbox-science/transcriber)**: A fast, video subtitle pipeline written in Rust.
