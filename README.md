@@ -38,7 +38,8 @@ I'm a software engineer focused on systems programming, developer tooling, and o
 
 <details open>
   <summary><strong><a href="https://github.com/Code-Society-Lab">Code Society Contributions</a></strong></summary>
-  
+
+  - **[Matrix Directory](https://github.com/Code-Society-Lab/matrix-directory?author=chrisdedman)**: A directory of project listings for the Matrix Protocol ecosystems.
   - **[Grace Discord Bot](https://github.com/Code-Society-Lab/grace/commits?author=chrisdedman)**: The official Code Society Discord bot.
   - **[matrix.py](https://github.com/Code-Society-Lab/matrixpy/commits?author=chrisdedman)**: A simple, developer-friendly library for creating Matrix bots.
   - **[Grace Framework](https://github.com/Code-Society-Lab/grace-framework/commits?author=chrisdedman)**: Extensible Discord bot framework written in Python.
